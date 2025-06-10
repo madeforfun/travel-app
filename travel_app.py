@@ -253,7 +253,7 @@ def generate_dynamic_phrases(theme, count=5):
         4. They are good best friends who recently becames friends and they are so alike 
         5. She has promised to yake him out for a cofee in every country they both travel together
         6. Make this fun learning experience experience, playful but not much romantic as they are still friends, impress her
-        7. she likes pink roses and tulips more
+        7.  Anastasiya likes pink roses and tulips more
         8. mention them as travel buddies and friendsn snf svoid mentioning them as best friends or besties .
         also avoid certain words like hand in hand which looks too much like couples, keep a little bit of funny playfulness.
         Keep it mainly towards really good friends who wanna travel together and not couples, who are crzay to travel and explore together and share ggreat bond
@@ -449,7 +449,7 @@ with tab1:
                 5. They are good best friends who recently becames friends and they are so alike 
                 6. She has promised to yake him out for a cofee in every country they both travel together
                 7. Make this fun learning experience experience, playful but not much romantic as they are still friends, impress her
-                8. she likes pink roses and tulips more
+                8.  Anastasiya likes pink roses and tulips more
                 9.mention them as travel buddies and friend and avoid mentioning them as best friends or besties .
                 also avoid certain words like hand in hand which looks too much like couples, keep a little bit of funny playfulness.
                 Make it travel-focused and mention their coffee dates tradition. Use emojis and keep it under 120 words.
@@ -543,7 +543,7 @@ with tab2:
                             4. They are good best friends who recently becames friends and they are so alike 
                             5. She has promised to yake him out for a cofee in every country they both travel together
                             6. Make this fun learning experience experience, playful but not much romantic as they are still friends, impress her
-                            7. she likes pink roses and tulips more
+                            7.  Anastasiya likes pink roses and tulips more
                             9.mention them as travel buddies and friends anf avoid mentioning them as best friends or besties .
                             also avoid certain words like hand in hand which looks too much like couples, keep a little bit of funny playfulness.
                             Keep it practical and fun. Use emojis.
@@ -597,7 +597,7 @@ with tab3:
                     1. They are good best friends who recently becames friends and they are so alike 
                     2. She has promised to yake him out for a cofee in every country they both travel together
                     3. Make this fun learning experience experience, playful but not romantic as they are still friends, it should sound like two best friends are going on a travel and not two couples, impress her
-                    4. she likes pink roses and tulips more
+                    4.  Anastasiya likes pink roses and tulips more
                     also avoid certain words like hand in hand which looks too much like couples, keep a little bit of funny playfulness.
                     mention them as travel buddies and friends and avoid mentioning them as best friends or besties .
                     keep this entirely focused towards two friends and do not use name of both directly, also make sure to keep it a bit generic and not much playful
@@ -716,7 +716,7 @@ with tab5:
                         keep in mind that-4. They are good best friends who recently becames friends and they are so alike 
                         1. She has promised to yake him out for a cofee in every country they both travel together
                         2. Make this fun learning experience experience, playful but not much romantic as they are still friends, impress her
-                        3. she likes pink roses and tulips more
+                        3. Anastasiya likes pink roses and tulips more
                         Guidelines:
                         - Be encouraging and supportive
                         - Correct gently if they make mistakes
