@@ -255,7 +255,7 @@ def generate_dynamic_phrases(theme, count=5):
         6. Make this fun learning experience experience, playful but not much romantic as they are still friends, impress her
         7. she likes pink roses and tulips more
         8. mention them as travel buddies and friendsn snf svoid mentioning them as best friends or besties .
-
+        also avoid certain words like hand in hand which looks too much like couples, keep a little bit of funny playfulness.
         
         Make them authentic and useful for real travel situations.
         Only return the phrases, no extra text.
@@ -451,7 +451,7 @@ with tab1:
                 7. Make this fun learning experience experience, playful but not much romantic as they are still friends, impress her
                 8. she likes pink roses and tulips more
                 9.mention them as travel buddies and friend and avoid mentioning them as best friends or besties .
-                
+                also avoid certain words like hand in hand which looks too much like couples, keep a little bit of funny playfulness.
                 Make it travel-focused and mention their coffee dates tradition. Use emojis and keep it under 120 words.
                 """
                 
@@ -545,7 +545,7 @@ with tab2:
                             6. Make this fun learning experience experience, playful but not much romantic as they are still friends, impress her
                             7. she likes pink roses and tulips more
                             9.mention them as travel buddies and friends anf avoid mentioning them as best friends or besties .
-                            
+                            also avoid certain words like hand in hand which looks too much like couples, keep a little bit of funny playfulness.
                             Keep it practical and fun. Use emojis.
                             """
                             
@@ -598,6 +598,7 @@ with tab3:
                     2. She has promised to yake him out for a cofee in every country they both travel together
                     3. Make this fun learning experience experience, playful but not romantic as they are still friends, it should sound like two best friends are going on a travel and not two couples, impress her
                     4. she likes pink roses and tulips more
+                    also avoid certain words like hand in hand which looks too much like couples, keep a little bit of funny playfulness.
                     mention them as travel buddies and friends and avoid mentioning them as best friends or besties .
                     keep this entirely focused towards two friends and do not use name of both directly, also make sure to keep it a bit generic and not much playful
                     """
@@ -668,7 +669,7 @@ with tab4:
                 4. Cultural tips
                 5. Transportation advice
                 mention them as travel buddies and friends and avoid mentioning them as best friends or besties .
-                
+                also avoid certain words like hand in hand which looks too much like couples, keep a little bit of funny playfulness.
                 Make it practical but fun for two travel buddies. Use emojis.
                 """
                 
@@ -723,7 +724,7 @@ with tab5:
                         - Keep responses conversational and fun
                         - Reference their travel dreams and coffee dates occasionally
                         - Use emojis to keep it engaging
-                        mention them as travel buddies and friends and avoid mentioning them as best friends or besties .
+                        mention them as travel buddies and friends and avoid mentioning them as best friends or besties , also avoid certain words like hand in hand which looks too much like couples, keep a little bit of funny playfulness.
                         """}]
                         messages_for_llm += st.session_state.messages[-6:]
                         
@@ -833,7 +834,7 @@ st.markdown(f"""
 <div style="text-align: center; background: linear-gradient(45deg, #4e54c8, #8f94fb); color: white; padding: 2rem; border-radius: 15px; margin-top: 2rem;">
     <h4>🌍 Every phrase brings us closer to our dream! 🌍</h4>
     <p>Made for travel adventures</p>
-    <p style="font-size: small;">From coffee dates to world travels - this is just the beginning! ☕✈️✨</p>
+    <p style="font-size: small;">From coffee dates to travelling world together ☕✈️✨</p>
 </div>
 """, unsafe_allow_html=True)
 
