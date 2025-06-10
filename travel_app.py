@@ -539,10 +539,10 @@ with tab2:
                             Include:
                             1. A specific situation where they'd use this phrase
                             2. How it helps their travel experience
-                            3. A fun moment between them
+                            3. keep it funny
                             4. They are good best friends who recently becames friends and they are so alike 
                             5. She has promised to yake him out for a cofee in every country they both travel together
-                            6. Make this fun learning experience experience, playful but not much romantic as they are still friends, impress her
+                            6. Make this fun learning experience experience, playful but not much romantic as they are still friends
                             7.  Anastasiya likes pink roses and tulips more
                             9.mention them as travel buddies and friends anf avoid mentioning them as best friends or besties .
                             also avoid certain words like hand in hand which looks too much like couples, keep a little bit of funny playfulness.
@@ -598,7 +598,7 @@ with tab3:
                     2. She has promised to yake him out for a cofee in every country they both travel together
                     3. Make this fun learning experience experience, playful but not romantic as they are still friends, it should sound like two best friends are going on a travel and not two couples, impress her
                     4.  Anastasiya likes pink roses and tulips more
-                    also avoid certain words like hand in hand which looks too much like couples, keep a little bit of funny playfulness.
+                    also avoid certain words like hand in hand which looks too much like couples
                     mention them as travel buddies and friends and avoid mentioning them as best friends or besties .
                     keep this entirely focused towards two friends and do not use name of both directly, also make sure to keep it a bit generic and not much playful
                     """
@@ -669,7 +669,7 @@ with tab4:
                 4. Cultural tips
                 5. Transportation advice
                 mention them as travel buddies and friends and avoid mentioning them as best friends or besties .
-                also avoid certain words like hand in hand which looks too much like couples, keep a little bit of funny playfulness.
+                also avoid certain words like hand in hand which looks too much like couples
                 Make it practical but fun for two travel buddies. Use emojis.
                 """
                 
