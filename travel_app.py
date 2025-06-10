@@ -256,7 +256,7 @@ def generate_dynamic_phrases(theme, count=5):
         7. she likes pink roses and tulips more
         8. mention them as travel buddies and friendsn snf svoid mentioning them as best friends or besties .
         also avoid certain words like hand in hand which looks too much like couples, keep a little bit of funny playfulness.
-        
+        Keep it mainly towards really good friends who wanna travel together and not couples, who are crzay to travel and explore together and share ggreat bond
         Make them authentic and useful for real travel situations.
         Only return the phrases, no extra text.
         """
@@ -440,7 +440,7 @@ with tab1:
             try:
                 prompt = f"""
                 Explain the French phrase "{phrase_key}" meaning "{current_phrases[phrase_key]}" to Himanshu and Anastasiya who are learning French for their travel adventures.
-                
+                Keep it mainly towards really good friends who wanna travel together and not couples, who are crzay to travel and explore together and share ggreat bond
                 Include:
                 1. When and where they might use this phrase while traveling
                 2. Cultural context about using this in France
@@ -535,7 +535,7 @@ with tab2:
                         try:
                             context_prompt = f"""
                             Create a travel scenario for Himanshu and Anastasiya using the French phrase "{french_phrase}" ({english_meaning}) in the context of {theme_to_show}.
-                            
+                            Keep it mainly towards really good friends who wanna travel together and not couples, who are crzay to travel and explore together and share ggreat bond
                             Include:
                             1. A specific situation where they'd use this phrase
                             2. How it helps their travel experience
@@ -590,7 +590,7 @@ with tab3:
                 try:
                     coffee_prompt = f"""
                     Create a fun coffee date scenario for Himanshu and Anastasiya using the French phrase "{phrase}" ({meaning}).
-                    
+                    Keep it mainly towards really good friends who wanna travel together and not couples, who are crzay to travel and explore together and share ggreat bond
                     Make it travel-themed and mention their tradition of coffee dates in every second country.
                     Include how they would use this phrase together in a French café.
                     Keep it short and use emojis and keep this in mind-
@@ -724,6 +724,7 @@ with tab5:
                         - Keep responses conversational and fun
                         - Reference their travel dreams and coffee dates occasionally
                         - Use emojis to keep it engaging
+                        Keep it mainly towards really good friends who wanna travel together and not couples, who are crzay to travel and explore together and share ggreat bond
                         mention them as travel buddies and friends and avoid mentioning them as best friends or besties , also avoid certain words like hand in hand which looks too much like couples, keep a little bit of funny playfulness.
                         """}]
                         messages_for_llm += st.session_state.messages[-6:]
