@@ -374,8 +374,8 @@ with st.sidebar:
     st.markdown(f"""
     <div style="text-align: center; background: linear-gradient(45deg, #E8F4FD, #D4E7FA); padding: 1rem; border-radius: 15px;">
         <h3 style="color:blue;">Our Travel Stats</h3>
-        <p><span class="progress-globe">🌍</span> {len(st.session_state.learned_phrases)} French phrases mastered!</p>
-        <p>✈️ Next destination: Paris!</p>
+        <p style="color:blue;"><span class="progress-globe">🌍</span> {len(st.session_state.learned_phrases)} French phrases mastered!</p>
+        <p style="color:blue;">✈️ Next destination: Paris!</p>
     </div>
     """, unsafe_allow_html=True)
     
