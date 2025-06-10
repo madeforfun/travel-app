@@ -254,7 +254,7 @@ def generate_dynamic_phrases(theme, count=5):
         5. She has promised to yake him out for a cofee in every country they both travel together
         6. Make this fun learning experience experience, playful but not much romantic as they are still friends, impress her
         7. she likes pink roses and tulips more
-        8. mention them as travel buddies and friends
+        8. mention them as travel buddies and friendsn snf svoid mentioning them as best friends or besties .
 
         
         Make them authentic and useful for real travel situations.
@@ -389,7 +389,7 @@ with st.sidebar:
     st.markdown("---")
     
     # Add coffee date button
-    if st.button("☕ Plan Another Coffee Date"):
+    if st.button("☕ Take Himanshu Out for Another coffe? "):
         st.session_state.coffee_dates += 1
         st.success(f"Coffee date #{st.session_state.coffee_dates} planned!")
     
@@ -450,6 +450,7 @@ with tab1:
                 6. She has promised to yake him out for a cofee in every country they both travel together
                 7. Make this fun learning experience experience, playful but not much romantic as they are still friends, impress her
                 8. she likes pink roses and tulips more
+                9.mention them as travel buddies and friend and avoid mentioning them as best friends or besties .
                 
                 Make it travel-focused and mention their coffee dates tradition. Use emojis and keep it under 120 words.
                 """
@@ -543,6 +544,7 @@ with tab2:
                             5. She has promised to yake him out for a cofee in every country they both travel together
                             6. Make this fun learning experience experience, playful but not much romantic as they are still friends, impress her
                             7. she likes pink roses and tulips more
+                            9.mention them as travel buddies and friends anf avoid mentioning them as best friends or besties .
                             
                             Keep it practical and fun. Use emojis.
                             """
@@ -596,6 +598,7 @@ with tab3:
                     2. She has promised to yake him out for a cofee in every country they both travel together
                     3. Make this fun learning experience experience, playful but not romantic as they are still friends, it should sound like two best friends are going on a travel and not two couples, impress her
                     4. she likes pink roses and tulips more
+                    mention them as travel buddies and friends and avoid mentioning them as best friends or besties .
                     keep this entirely focused towards two friends and do not use name of both directly, also make sure to keep it a bit generic and not much playful
                     """
                     
@@ -664,8 +667,9 @@ with tab4:
                 3. Coffee shop recommendations (for their tradition)
                 4. Cultural tips
                 5. Transportation advice
+                mention them as travel buddies and friends and avoid mentioning them as best friends or besties .
                 
-                Make it practical but fun for two travel partners. Use emojis.
+                Make it practical but fun for two travel buddies. Use emojis.
                 """
                 
                 response = client.chat.completions.create(
@@ -719,6 +723,7 @@ with tab5:
                         - Keep responses conversational and fun
                         - Reference their travel dreams and coffee dates occasionally
                         - Use emojis to keep it engaging
+                        mention them as travel buddies and friends and avoid mentioning them as best friends or besties .
                         """}]
                         messages_for_llm += st.session_state.messages[-6:]
                         
