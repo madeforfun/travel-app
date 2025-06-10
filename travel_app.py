@@ -389,7 +389,7 @@ with st.sidebar:
     st.markdown("---")
     
     # Add coffee date button
-    if st.button("☕ Take Himanshu Out for Another coffe? "):
+    if st.button("☕ Take Himanshu Out for Another coffee? "):
         st.session_state.coffee_dates += 1
         st.success(f"Coffee date #{st.session_state.coffee_dates} planned!")
     
